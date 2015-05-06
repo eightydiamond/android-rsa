@@ -1,0 +1,1 @@
+Applying the contents of the MasterInftel IX, we try to develop a chat-client with encrypted conversations using public key.
